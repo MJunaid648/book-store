@@ -1,8 +1,8 @@
 import React from "react";
-import banner from "../../public/banner.jpg";
+import banner from "../../public/banner-removebg-preview.png";
 const Banner = () => {
   return (
-    <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10">
+    <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row py-10 ">
       <div className="order-2 md:order-1 w-full md:w-1/2 mt-12 md:mt-32">
         <div className="space-y-6">
           <h1 className="text-4xl font-bold">
@@ -26,10 +26,10 @@ const Banner = () => {
             <input type="text" className="grow" placeholder="Email" />
           </label>
         </div>
-        <button className=" mt-6 btn btn-secondary">Button</button>
+        <button className=" mt-6 btn bg-pink-500 hover:bg-pink-700 text-white duration-200">Button</button>
       </div>
       <div className=" order-1 md:order-2 w-full md:w-1/2">
-        <img className="w-92 h-92" src={banner} alt="" />
+        <img className="w-92 h-92 " src={banner} alt="" />
       </div>
     </div>
   );

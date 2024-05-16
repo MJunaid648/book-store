@@ -1,10 +1,122 @@
 [
   {
     "id": 1,
-    "name": "Story Book",
-    "title": "  Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "name": "Adventure Book",
+    "title": "Journey into the Unknown",
+    "price": 12.99,
+    "category": "Adventure",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 2,
+    "name": "Cookbook",
+    "title": "Delicious Recipes from the World",
     "price": 0,
     "category": "Free",
-    "image": ""
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 3,
+    "name": "Science Fiction Book",
+    "title": "Exploring Parallel Universes",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 4,
+    "name": "Self-Help Book",
+    "title": "Unlock Your Potential",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 5,
+    "name": "Art Book",
+    "title": "Masterpieces Through the Ages",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 6,
+    "name": "Mystery Book",
+    "title": "Unraveling the Enigma",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 7,
+    "name": "Biography",
+    "title": "Life of a Visionary",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 8,
+    "name": "Fantasy Book",
+    "title": "Realm of Dragons and Magic",
+    "price": 16.99,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 9,
+    "name": "Thriller Book",
+    "title": "Heart-Pounding Suspense",
+    "price": 13.49,
+    "category": "Thriller",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 10,
+    "name": "Poetry Book",
+    "title": "Whispers of the Soul",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 11,
+    "name": "Travel Book",
+    "title": "Discovering Hidden Gems",
+    "price": 18.49,
+    "category": "Travel",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 12,
+    "name": "Psychology Book",
+    "title": "Understanding the Mind",
+    "price": 20.99,
+    "category": "Psychy",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 13,
+    "name": "Romance Book",
+    "title": "Love in Bloom",
+    "price": 9.99,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 14,
+    "name": "History Book",
+    "title": "Exploring the Past",
+    "price": 24.99,
+    "category": "History",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
+  },
+  {
+    "id": 15,
+    "name": "Science Book",
+    "title": "Understanding the Universe",
+    "price": 17.99,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-vector/stack-books-book-day-icon_24640-133877.jpg?w=826&t=st=1715424958~exp=1715425558~hmac=83d5bf0da31d759337dda99cf8554c4df1de437f5d93062bed6be7f5013712d7"
   }
 ]
